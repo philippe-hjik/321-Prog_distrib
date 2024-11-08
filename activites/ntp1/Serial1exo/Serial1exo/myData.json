@@ -1,0 +1,51 @@
+{
+  "Characters": [
+    {
+      "Id": 0,
+      "FirstName": "Philippe-Supercalifragilisticexpialidocious",
+      "LastName": "Thunderpants",
+      "Description": "A wildly eccentric character with a love for penguins.",
+      "actorFk": 0
+    },
+    {
+      "Id": 1,
+      "FirstName": "Philippe-Smelly",
+      "LastName": "Pants",
+      "Description": "An adventurer with a mysterious odor that follows him everywhere.",
+      "actorFk": 1
+    },
+    {
+      "Id": 2,
+      "FirstName": "Philippe-Sparkly",
+      "LastName": "Funk",
+      "Description": "A disco dancer who never stops glowing under black lights.",
+      "actorFk": 2
+    }
+  ],
+  "Actors": [
+    {
+      "Id": 0,
+      "FirstName": "Philippe-Crazy",
+      "LastName": "McFunky",
+      "BirthDate": "1982-10-15T00:00:00",
+      "Country": "France",
+      "IsAlive": true
+    },
+    {
+      "Id": 1,
+      "FirstName": "Philippe-Bouncy",
+      "LastName": "Jellybean",
+      "BirthDate": "1990-05-22T00:00:00",
+      "Country": "Belgium",
+      "IsAlive": true
+    },
+    {
+      "Id": 2,
+      "FirstName": "Philippe-Funky",
+      "LastName": "Cheese",
+      "BirthDate": "1975-07-09T00:00:00",
+      "Country": "Canada",
+      "IsAlive": true
+    }
+  ]
+}
